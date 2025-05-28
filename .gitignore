@@ -1,0 +1,11 @@
+# Ignore virtual environment and system files
+venv/
+__pycache__/
+*.pyc
+
+# Ignore output files
+*.json
+*.csv
+
+# Ignore VS Code settings
+.vscode/
